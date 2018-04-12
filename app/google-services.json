@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "63316927540",
+    "firebase_url": "https://objects-of-immersion-c4603.firebaseio.com",
+    "project_id": "objects-of-immersion-c4603",
+    "storage_bucket": "objects-of-immersion-c4603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63316927540:android:af81d1661b3dc6f6",
+        "android_client_info": {
+          "package_name": "imaginationlancs.digitalclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63316927540-foop1mncj3irpv2u2b4mg6ghsq47iudg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcE0Vh0AqYe296ecCZ2h8lNykRjzWVFTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63316927540:android:2600506a4ea11f82",
+        "android_client_info": {
+          "package_name": "lrotf.mladen.data_output_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63316927540-foop1mncj3irpv2u2b4mg6ghsq47iudg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcE0Vh0AqYe296ecCZ2h8lNykRjzWVFTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
